@@ -1,3 +1,4 @@
+cd hrsh
 ---
 manufacturer:
     - huawei
